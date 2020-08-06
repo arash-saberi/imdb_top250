@@ -6,9 +6,25 @@ import time
 from lxml import html
 
 myImage = ''
+myDesc = ''
+newGenre = ''
+
+headers = {
+
+'Host': 'www.imdb.com',
+'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:79.0) Gecko/20100101 Firefox/79.0',
+'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+'Accept-Language': 'en-US,en;q=0.5',
+'Accept-Encoding': 'gzip, deflate, br',
+'Connection': 'keep-alive',
+'Cookie': 'uu=BCYvKwW25B4_tYyEKoD33JhrjcJhRWBKwBkMjDBloz1x_YjsrUXqZdZ4XV4GwIO0PDJhAZ9S2_6i%0D%0AJS3Tq0m5SuJEC5K3AyWHFsq_GEqzcMPHpJ3UW1Uw20mtHfIN-Kn2W1ElCMlcjFgKeJeuc942Srg1%0D%0AHQ%0D%0A; session-id=132-5605447-6451900; session-id-time=2082787201l; csm-hit=tb:s-4VKQT4AK9W4XN0P8TAN1|1596743630865&t:1596743632710&adb:adblk_no; ubid-main=131-9877764-3908213; session-token=VgAZZTHkm7HU3zqDCYRZZYNXQU3n2nzNy/NlQ/LpEWfMzRoAP2B/gSLAz9LxGchpaY0BBXVlMDKpbgJmkitfZnj4eE3BIsnnixQZFNPqZLc0ClI1gQJGD30Ly3pbVie4u8+XHvrYSIVvZKY+3Qn2Q4Jr7zRqnHBWMgSfM+D324YyC26l6vWHOiEp2ChwscUI; adblk=adblk_no',
+'Upgrade-Insecure-Requests': '1',
+'Cache-Control': 'max-age=0',
+'TE': 'Trailers',
+}
 
 url = 'http://www.imdb.com/chart/top'
-response = requests.get(url)
+response = requests.get(url,headers=headers)
 soup = BeautifulSoup(response.text, 'lxml')
 
 movies = soup.select('td.titleColumn')
@@ -38,21 +54,35 @@ while index <  len(movies):
     doc = html.fromstring(str(page.content, 'utf-8'))
 
     img = doc.xpath('//*[@id="title-overview-widget"]/div[1]/div[3]/div[1]/a/img/@src')
+    desc = doc.xpath('//*[@id="title-overview-widget"]/div[2]/div[1]/div[1]//text()')
+    genre = doc.xpath("//*[@id='title-overview-widget']/div[1]/div[2]/div/div[2]/div[2]/div/a[contains(@href,'/search/title?genres=')]//text()")
+
+
     for s in img:
         myImage = s
+
+    for text in desc:
+        myDesc = text.strip()    
+    
+    newGenre = ', '.join(genre)
+       
    
     data = {"index": index+1,
-            "movie_title": movie_title,
+            "title": movie_title,
+            "genre": newGenre,
+            "description": myDesc,
             "year": year,
             "rating": ratings[index],
             "image":myImage
+
             }
     imdb.append(data)
     
     index = index+1
     
-    if index > 10 and index % 10 == 0:
+    if index >= 10 and index % 10 == 0:
         print(str(index))
+        
     
 jsonFile = open('imdb.json','w', newline='\n', encoding='utf-8')
 
