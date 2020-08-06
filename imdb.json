@@ -1,0 +1,1752 @@
+[
+    {
+        "index": 1,
+        "movie_title": "The Shawshank Redemption",
+        "year": "1994",
+        "rating": "9.2225518092784",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 2,
+        "movie_title": "The Godfather",
+        "year": "1972",
+        "rating": "9.148966208188137",
+        "image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY268_CR3,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 3,
+        "movie_title": "The Godfather: Part II",
+        "year": "1974",
+        "rating": "8.981216217115298",
+        "image": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY268_CR3,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 4,
+        "movie_title": "The Dark Knight",
+        "year": "2008",
+        "rating": "8.972354896106735",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 5,
+        "movie_title": "12 Angry Men",
+        "year": "1957",
+        "rating": "8.929112673829492",
+        "image": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 6,
+        "movie_title": "Schindler's List",
+        "year": "1993",
+        "rating": "8.906106969033422",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 7,
+        "movie_title": "The Lord of the Rings: The Return of the King",
+        "year": "2003",
+        "rating": "8.882730575678869",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 8,
+        "movie_title": "Pulp Fiction",
+        "year": "1994",
+        "rating": "8.846063453165515",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY268_CR1,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 9,
+        "movie_title": "Il buono, il brutto, il cattivo",
+        "year": "1966",
+        "rating": "8.797390074265923",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwNDQ4ODE5MDE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 10,
+        "movie_title": " The Lord of the Rings: The Fellowship of the Ring",
+        "year": "2001",
+        "rating": "8.774631414172138",
+        "image": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 11,
+        "movie_title": "Fight Club",
+        "year": "1999",
+        "rating": "8.767742622802729",
+        "image": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 12,
+        "movie_title": "Forrest Gump",
+        "year": "1994",
+        "rating": "8.752809041450298",
+        "image": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR1,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 13,
+        "movie_title": "Inception",
+        "year": "2010",
+        "rating": "8.719402009080126",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 14,
+        "movie_title": "Star Wars: Episode V - The Empire Strikes Back",
+        "year": "1980",
+        "rating": "8.699353086259562",
+        "image": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 15,
+        "movie_title": "The Lord of the Rings: The Two Towers",
+        "year": "2002",
+        "rating": "8.698013083384806",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 16,
+        "movie_title": "The Matrix",
+        "year": "1999",
+        "rating": "8.648530983353195",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 17,
+        "movie_title": "Goodfellas",
+        "year": "1990",
+        "rating": "8.643419899317236",
+        "image": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 18,
+        "movie_title": "One Flew Over the Cuckoo's Nest",
+        "year": "1975",
+        "rating": "8.64003357254231",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 19,
+        "movie_title": "Shichinin no samurai",
+        "year": "1954",
+        "rating": "8.603768089159734",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 20,
+        "movie_title": "Se7en",
+        "year": "1995",
+        "rating": "8.591913320332367",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 21,
+        "movie_title": "La vita è bella",
+        "year": "1997",
+        "rating": "8.583051428635867",
+        "image": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 22,
+        "movie_title": "Cidade de Deus",
+        "year": "2002",
+        "rating": "8.580870533065193",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDJiNTEwMjMtOGQ1ZC00OTczLWFjZjctZWQ0MGJjZmFkMjcwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 23,
+        "movie_title": "The Silence of the Lambs",
+        "year": "1991",
+        "rating": "8.574844286431082",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 24,
+        "movie_title": "It's a Wonderful Life",
+        "year": "1946",
+        "rating": "8.571415137328728",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_UY268_CR1,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 25,
+        "movie_title": "Star Wars",
+        "year": "1977",
+        "rating": "8.557521049665093",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 26,
+        "movie_title": "Hamilton",
+        "year": "2020",
+        "rating": "8.549992229692362",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 27,
+        "movie_title": "Saving Private Ryan",
+        "year": "1998",
+        "rating": "8.548686796592637",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UY268_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 28,
+        "movie_title": "Sen to Chihiro no kamikakushi",
+        "year": "2001",
+        "rating": "8.541181566792636",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 29,
+        "movie_title": "The Green Mile",
+        "year": "1999",
+        "rating": "8.536523800708673",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 30,
+        "movie_title": "Gisaengchung",
+        "year": "2019",
+        "rating": "8.536346187020504",
+        "image": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 31,
+        "movie_title": "Interstellar",
+        "year": "2014",
+        "rating": "8.529523643154812",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 32,
+        "movie_title": "Léon",
+        "year": "1994",
+        "rating": "8.512083129648824",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDAwYTlhMDEtNTg0OS00NDY2LWJjOWItNWY3YTZkM2UxYzUzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR4,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 33,
+        "movie_title": "The Usual Suspects",
+        "year": "1995",
+        "rating": "8.502096696663617",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 34,
+        "movie_title": "Seppuku",
+        "year": "1962",
+        "rating": "8.499019381390681",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 35,
+        "movie_title": "The Lion King",
+        "year": "1994",
+        "rating": "8.491818509847477",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 36,
+        "movie_title": "Back to the Future",
+        "year": "1985",
+        "rating": "8.486113358893174",
+        "image": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 37,
+        "movie_title": "The Pianist",
+        "year": "2002",
+        "rating": "8.485789168046788",
+        "image": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY268_CR6,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 38,
+        "movie_title": "Terminator 2: Judgment Day",
+        "year": "1991",
+        "rating": "8.48535953443215",
+        "image": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 39,
+        "movie_title": "American History X",
+        "year": "1998",
+        "rating": "8.484386093605632",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjA0MTM4MTQtNzY5MC00NzY3LWI1ZTgtYzcxMjkyMzU4MDZiXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 40,
+        "movie_title": "Modern Times",
+        "year": "1936",
+        "rating": "8.483239839371636",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjA0MTM4MTQtNzY5MC00NzY3LWI1ZTgtYzcxMjkyMzU4MDZiXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 41,
+        "movie_title": "Psycho",
+        "year": "1960",
+        "rating": "8.477116301597713",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 42,
+        "movie_title": "Gladiator",
+        "year": "2000",
+        "rating": "8.476211852815984",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 43,
+        "movie_title": "City Lights",
+        "year": "1931",
+        "rating": "8.473116073152413",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 44,
+        "movie_title": "The Departed",
+        "year": "2006",
+        "rating": "8.471476769687829",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 45,
+        "movie_title": "The Intouchables",
+        "year": "2011",
+        "rating": "8.469531852892365",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 46,
+        "movie_title": "Whiplash",
+        "year": "2014",
+        "rating": "8.468071549471427",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 47,
+        "movie_title": "The Prestige",
+        "year": "2006",
+        "rating": "8.459004166931113",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 48,
+        "movie_title": "Hotaru no haka",
+        "year": "1988",
+        "rating": "8.45258025299844",
+        "image": "https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 49,
+        "movie_title": "Once Upon a Time in the West",
+        "year": "1968",
+        "rating": "8.451271758046294",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGI5MjBmYzYtMzJhZi00NGI1LTk3MzItYjBjMzcxM2U3MDdiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 50,
+        "movie_title": "Casablanca",
+        "year": "1942",
+        "rating": "8.43853082376003",
+        "image": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 51,
+        "movie_title": "Nuovo Cinema Paradiso",
+        "year": "1988",
+        "rating": "8.430483424392392",
+        "image": "https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 52,
+        "movie_title": "Rear Window",
+        "year": "1954",
+        "rating": "8.428412244120283",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjJkZGVjMDMtMzNmZS00NDQ3LWE1YWEtMDlmYjExMTA4MGFkXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 53,
+        "movie_title": "Alien",
+        "year": "1979",
+        "rating": "8.422002928447528",
+        "image": "https://m.media-amazon.com/images/M/MV5BMmQ2MmU3NzktZjAxOC00ZDZhLTk4YzEtMDMyMzcxY2IwMDAyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 54,
+        "movie_title": "Apocalypse Now",
+        "year": "1979",
+        "rating": "8.419864144244455",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDdhODg0MjYtYzBiOS00ZmI5LWEwZGYtZDEyNDU4MmQyNzFkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 55,
+        "movie_title": "Memento",
+        "year": "2000",
+        "rating": "8.415342171458933",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY268_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 56,
+        "movie_title": "Raiders of the Lost Ark",
+        "year": "1981",
+        "rating": "8.412191762498054",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 57,
+        "movie_title": "The Great Dictator",
+        "year": "1940",
+        "rating": "8.411305084969529",
+        "image": "https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 58,
+        "movie_title": "Joker",
+        "year": "2019",
+        "rating": "8.40384659055704",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 59,
+        "movie_title": "The Lives of Others",
+        "year": "2006",
+        "rating": "8.390620005206445",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 60,
+        "movie_title": "Django Unchained",
+        "year": "2012",
+        "rating": "8.39022302847261",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 61,
+        "movie_title": "Paths of Glory",
+        "year": "1957",
+        "rating": "8.37496456074985",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjViMmRkOTEtM2ViOS00ODg0LWJhYWEtNTBlOGQxNDczOGY3XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UY268_CR6,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 62,
+        "movie_title": "The Shining",
+        "year": "1980",
+        "rating": "8.369296423769235",
+        "image": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 63,
+        "movie_title": "WALL·E",
+        "year": "2008",
+        "rating": "8.36808566471562",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 64,
+        "movie_title": "Avengers: Infinity War",
+        "year": "2018",
+        "rating": "8.36644183924915",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 65,
+        "movie_title": "Sunset Blvd",
+        "year": "1950",
+        "rating": "8.360795720148422",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 66,
+        "movie_title": "Mononoke-hime",
+        "year": "1997",
+        "rating": "8.352725630439574",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGIzY2IzODQtNThmMi00ZDE4LWI5YzAtNzNlZTM1ZjYyYjUyXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 67,
+        "movie_title": "Spider-Man: Into the Spider-Verse",
+        "year": "2018",
+        "rating": "8.352717471936659",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 68,
+        "movie_title": "Witness for the Prosecution",
+        "year": "1957",
+        "rating": "8.351751313881438",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDQwODU5OWYtNDcyNi00MDQ1LThiOGMtZDkwNWJiM2Y3MDg0XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 69,
+        "movie_title": "Dr Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "year": "1964",
+        "rating": "8.351644518117196",
+        "image": "https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 70,
+        "movie_title": "Oldeuboi",
+        "year": "2003",
+        "rating": "8.351288400668631",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 71,
+        "movie_title": "The Dark Knight Rises",
+        "year": "2012",
+        "rating": "8.33408568615586",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 72,
+        "movie_title": "Once Upon a Time in America",
+        "year": "1984",
+        "rating": "8.331710608591276",
+        "image": "https://m.media-amazon.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 73,
+        "movie_title": "Avengers: Endgame",
+        "year": "2019",
+        "rating": "8.32610341282723",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 74,
+        "movie_title": "Aliens",
+        "year": "1986",
+        "rating": "8.324388945866048",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGU2OGY5ZTYtMWNhYy00NjZiLWI0NjUtZmNhY2JhNDRmODU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 75,
+        "movie_title": "Kimi no na wa",
+        "year": "2016",
+        "rating": "8.319713431288799",
+        "image": "https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 76,
+        "movie_title": "Coco",
+        "year": "2017",
+        "rating": "8.313864196414833",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_UY268_CR3,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 77,
+        "movie_title": "American Beauty",
+        "year": "1999",
+        "rating": "8.308301697849775",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 78,
+        "movie_title": "Braveheart",
+        "year": "1995",
+        "rating": "8.303094557655905",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 79,
+        "movie_title": "3 Idiots",
+        "year": "2009",
+        "rating": "8.30048125372692",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY268_CR2,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 80,
+        "movie_title": "Das Boot",
+        "year": "1981",
+        "rating": "8.299626056966124",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGRmOWY0MGUtNTVhMy00NzRlLTljNDAtNTBiNTRlODgxNmY2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY268_CR4,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 81,
+        "movie_title": "Toy Story",
+        "year": "1995",
+        "rating": "8.29564755725518",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 82,
+        "movie_title": "Tengoku to jigoku",
+        "year": "1963",
+        "rating": "8.293496442810763",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGQ1NWZlYjctNDJmOS00MmU2LTg1ODItNmZiM2ZkNzJhNDI0XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY268_CR3,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 83,
+        "movie_title": "Amadeus",
+        "year": "1984",
+        "rating": "8.289445056842881",
+        "image": "https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 84,
+        "movie_title": "Taare Zameen Par",
+        "year": "2007",
+        "rating": "8.28939551783762",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDhjZWViN2MtNzgxOS00NmI4LThiZDQtZDI3MzM4MDE4NTc0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR2,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 85,
+        "movie_title": "Star Wars: Episode VI - Return of the Jedi",
+        "year": "1983",
+        "rating": "8.286719955122264",
+        "image": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 86,
+        "movie_title": "Inglourious Basterds",
+        "year": "2009",
+        "rating": "8.283592420720595",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 87,
+        "movie_title": "Reservoir Dogs",
+        "year": "1992",
+        "rating": "8.28251119046943",
+        "image": "https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 88,
+        "movie_title": "Good Will Hunting",
+        "year": "1997",
+        "rating": "8.279308787214887",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 89,
+        "movie_title": "Capharnaüm",
+        "year": "2018",
+        "rating": "8.275625013037477",
+        "image": "https://m.media-amazon.com/images/M/MV5BMmExNzU2ZWMtYzUwYi00YmM2LTkxZTQtNmVhNjY0NTMyMWI2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 90,
+        "movie_title": "2001: A Space Odyssey",
+        "year": "1968",
+        "rating": "8.271816897544003",
+        "image": "https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 91,
+        "movie_title": "Requiem for a Dream",
+        "year": "2000",
+        "rating": "8.267812725608897",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 92,
+        "movie_title": "Vertigo",
+        "year": "1958",
+        "rating": "8.267482040299608",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 93,
+        "movie_title": "1917",
+        "year": "2019",
+        "rating": "8.265661550374698",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 94,
+        "movie_title": "M - Eine Stadt sucht einen Mörder",
+        "year": "1931",
+        "rating": "8.264604875223425",
+        "image": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 95,
+        "movie_title": "Dangal",
+        "year": "2016",
+        "rating": "8.263956915690967",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_UY268_CR4,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 96,
+        "movie_title": "Eternal Sunshine of the Spotless Mind",
+        "year": "2004",
+        "rating": "8.259364235380229",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 97,
+        "movie_title": "Jagten",
+        "year": "2012",
+        "rating": "8.257259937291831",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDM2MzMwMzcxNF5BMl5BanBnXkFtZTcwNTczMDk3OA@@._V1_UY268_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 98,
+        "movie_title": "Citizen Kane",
+        "year": "1941",
+        "rating": "8.255842663071101",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 99,
+        "movie_title": "Full Metal Jacket",
+        "year": "1987",
+        "rating": "8.249952753806204",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 100,
+        "movie_title": " Ladri di biciclette",
+        "year": "1948",
+        "rating": "8.248561530227981",
+        "image": "https://m.media-amazon.com/images/M/MV5BNmI1ODdjODctMDlmMC00ZWViLWI5MzYtYzRhNDdjYmM3MzFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR2,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 101,
+        "movie_title": "A Clockwork Orange",
+        "year": "1971",
+        "rating": "8.246814939750646",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 102,
+        "movie_title": "The Kid",
+        "year": "1921",
+        "rating": "8.24679665264346",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 103,
+        "movie_title": "North by Northwest",
+        "year": "1959",
+        "rating": "8.24673514145749",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 104,
+        "movie_title": "Snatch",
+        "year": "2000",
+        "rating": "8.245286444127712",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY268_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 105,
+        "movie_title": "Singin' in the Rain",
+        "year": "1952",
+        "rating": "8.244244212290862",
+        "image": "https://m.media-amazon.com/images/M/MV5BMWUyNjQ5MTAtNDJhYS00MWQ0LTk2ZTAtZmE4MWNlMjMwMzg3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 106,
+        "movie_title": "Scarface",
+        "year": "1983",
+        "rating": "8.24259464173414",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 107,
+        "movie_title": "Taxi Driver",
+        "year": "1976",
+        "rating": "8.239803223084214",
+        "image": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 108,
+        "movie_title": "Amélie",
+        "year": "2001",
+        "rating": "8.23530178996861",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 109,
+        "movie_title": "Lawrence of Arabia",
+        "year": "1962",
+        "rating": "8.234936556272249",
+        "image": "https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UY268_CR2,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 110,
+        "movie_title": "Toy Story 3",
+        "year": "2010",
+        "rating": "8.234218907698269",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_UY268_CR3,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 111,
+        "movie_title": "Ikiru",
+        "year": "1952",
+        "rating": "8.234110659131131",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_UY268_CR3,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 112,
+        "movie_title": "The Sting",
+        "year": "1973",
+        "rating": "8.233682237240979",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 113,
+        "movie_title": "Metropolis",
+        "year": "1927",
+        "rating": "8.231312035625889",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 114,
+        "movie_title": "Jodaeiye Nader az Simin",
+        "year": "2011",
+        "rating": "8.230515754510133",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDRiZDY2YmEtZjMzNi00YTM4LWJkMmItYjFkNTQxMjQxNjA4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR1,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 115,
+        "movie_title": "Per qualche dollaro in più",
+        "year": "1965",
+        "rating": "8.228795963651027",
+        "image": "https://m.media-amazon.com/images/M/MV5BNWM1NmYyM2ItMTFhNy00NDU0LThlYWUtYjQyYTJmOTY0ZmM0XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 116,
+        "movie_title": "Incendies",
+        "year": "2010",
+        "rating": "8.223840839902245",
+        "image": "https://m.media-amazon.com/images/M/MV5BMWE3MGYzZjktY2Q5Mi00Y2NiLWIyYWUtMmIyNzA3YmZlMGFhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 117,
+        "movie_title": "The Apartment",
+        "year": "1960",
+        "rating": "8.22222987775642",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 118,
+        "movie_title": "Double Indemnity",
+        "year": "1944",
+        "rating": "8.221819309952965",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTdlNjgyZGUtOTczYi00MDdhLTljZmMtYTEwZmRiOWFkYjRhXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 119,
+        "movie_title": "To Kill a Mockingbird",
+        "year": "1962",
+        "rating": "8.216432049720835",
+        "image": "https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 120,
+        "movie_title": "Indiana Jones and the Last Crusade",
+        "year": "1989",
+        "rating": "8.211944896490406",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjNkMzc2N2QtNjVlNS00ZTk5LTg0MTgtODY2MDAwNTMwZjBjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 121,
+        "movie_title": "Up",
+        "year": "2009",
+        "rating": "8.211375633111881",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 122,
+        "movie_title": "Idi i smotri",
+        "year": "1985",
+        "rating": "8.210733873171952",
+        "image": "https://m.media-amazon.com/images/M/MV5BODM4Njg0NTAtYjI5Ny00ZjAxLTkwNmItZTMxMWU5M2U3M2RjXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 123,
+        "movie_title": "Anand",
+        "year": "1971",
+        "rating": "8.205122574017567",
+        "image": "https://m.media-amazon.com/images/M/MV5BYmYzNmM2MDctZGY3Yi00NjRiLWIxZjctYjgzYTcxYTNhYTMyXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_UY268_CR3,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 124,
+        "movie_title": "LA Confidential",
+        "year": "1997",
+        "rating": "8.203224346574897",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY268_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 125,
+        "movie_title": "Heat",
+        "year": "1995",
+        "rating": "8.20183449608412",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDJjNWE5MTEtMDk2Mi00ZjczLWIwYjAtNzM2ZTdhNzcwOGZjXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UY268_CR12,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 126,
+        "movie_title": "Monty Python and the Holy Grail",
+        "year": "1975",
+        "rating": "8.196579161375277",
+        "image": "https://m.media-amazon.com/images/M/MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 127,
+        "movie_title": "Die Hard",
+        "year": "1988",
+        "rating": "8.194251554414414",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 128,
+        "movie_title": "Rashômon",
+        "year": "1950",
+        "rating": "8.192523995184605",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 129,
+        "movie_title": "Yôjinbô",
+        "year": "1961",
+        "rating": "8.190870974670407",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 130,
+        "movie_title": "Batman Begins",
+        "year": "2005",
+        "rating": "8.190313310099166",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 131,
+        "movie_title": "Green Book",
+        "year": "2018",
+        "rating": "8.187071830912572",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 132,
+        "movie_title": "Der Untergang",
+        "year": "2004",
+        "rating": "8.185535145411636",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 133,
+        "movie_title": "Bacheha-Ye aseman",
+        "year": "1997",
+        "rating": "8.183885176772094",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTYwZWQ4ZTQtZWU0MS00N2YwLWEzMDItZWFkZWY0MWVjODVhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 134,
+        "movie_title": "Unforgiven",
+        "year": "1992",
+        "rating": "8.181736218802472",
+        "image": "https://m.media-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 135,
+        "movie_title": "Some Like It Hot",
+        "year": "1959",
+        "rating": "8.1757950471574",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 136,
+        "movie_title": "Ran",
+        "year": "1985",
+        "rating": "8.17466316668087",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDBjZTM4ZmEtOTA5ZC00NTQzLTkyNzYtMmUxNGU2YjI5YjU5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 137,
+        "movie_title": "Hauru no ugoku shiro",
+        "year": "2004",
+        "rating": "8.16730935297505",
+        "image": "https://m.media-amazon.com/images/M/MV5BNmM4YTFmMmItMGE3Yy00MmRkLTlmZGEtMzZlOTQzYjk3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 138,
+        "movie_title": "The Great Escape",
+        "year": "1963",
+        "rating": "8.161314549964835",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 139,
+        "movie_title": "All About Eve",
+        "year": "1950",
+        "rating": "8.161099811003165",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 140,
+        "movie_title": "A Beautiful Mind",
+        "year": "2001",
+        "rating": "8.161093873261006",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 141,
+        "movie_title": "Casino",
+        "year": "1995",
+        "rating": "8.15978213943538",
+        "image": "https://m.media-amazon.com/images/M/MV5BOThkYjU3OWQtN2Y3OC00ZDk1LWI1MDQtZTkxZjZiZGU5N2Q0XkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 142,
+        "movie_title": "Pan's Labyrinth",
+        "year": "2006",
+        "rating": "8.154897508026528",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTU3ODg2NjQ5NF5BMl5BanBnXkFtZTcwMDEwODgzMQ@@._V1_UY268_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 143,
+        "movie_title": "The Wolf of Wall Street",
+        "year": "2013",
+        "rating": "8.153295333702768",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 144,
+        "movie_title": "El secreto de sus ojos",
+        "year": "2009",
+        "rating": "8.150589951561967",
+        "image": "https://m.media-amazon.com/images/M/MV5BY2FhZGI5M2QtZWFiZS00NjkwLWE4NWQtMzg3ZDZjNjdkYTJiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 145,
+        "movie_title": "Lock, Stock and Two Smoking Barrels",
+        "year": "1998",
+        "rating": "8.148964343920637",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 146,
+        "movie_title": "Tonari no Totoro",
+        "year": "1988",
+        "rating": "8.148785882563462",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzJjMTYyMjQtZDI0My00ZjE2LTkyNGYtOTllNGQxNDMyZjE0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR4,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 147,
+        "movie_title": "Raging Bull",
+        "year": "1980",
+        "rating": "8.148041682066488",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 148,
+        "movie_title": "There Will Be Blood",
+        "year": "2007",
+        "rating": "8.142754814399101",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 149,
+        "movie_title": "The Treasure of the Sierra Madre",
+        "year": "1948",
+        "rating": "8.139747248510227",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 150,
+        "movie_title": "Judgment at Nuremberg",
+        "year": "1961",
+        "rating": "8.139630492824248",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 151,
+        "movie_title": "Three Billboards Outside Ebbing, Missouri",
+        "year": "2017",
+        "rating": "8.132230889714036",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 152,
+        "movie_title": "Dial M for Murder",
+        "year": "1954",
+        "rating": "8.131956454916027",
+        "image": "https://m.media-amazon.com/images/M/MV5BOWIwODIxYWItZDI4MS00YzhhLWE3MmYtMzlhZDIwOTMzZmE5L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 153,
+        "movie_title": "Babam ve Oglum",
+        "year": "2005",
+        "rating": "8.131953678066113",
+        "image": "https://m.media-amazon.com/images/M/MV5BOWIwODIxYWItZDI4MS00YzhhLWE3MmYtMzlhZDIwOTMzZmE5L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 154,
+        "movie_title": "The Gold Rush",
+        "year": "1925",
+        "rating": "8.1305037493972",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjEyOTE4MzMtNmMzMy00Mzc3LWJlOTQtOGJiNDE0ZmJiOTU4L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY268_CR7,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 155,
+        "movie_title": "Chinatown",
+        "year": "1974",
+        "rating": "8.130089619929066",
+        "image": "https://m.media-amazon.com/images/M/MV5BOGMwYmY5ZmEtMzY1Yi00OWJiLTk1Y2MtMzI2MjBhYmZkNTQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 156,
+        "movie_title": "V for Vendetta",
+        "year": "2005",
+        "rating": "8.124991159336677",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 157,
+        "movie_title": "No Country for Old Men",
+        "year": "2007",
+        "rating": "8.124552060242717",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_UY268_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 158,
+        "movie_title": "Shutter Island",
+        "year": "2010",
+        "rating": "8.123788762808218",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 159,
+        "movie_title": "Det sjunde inseglet",
+        "year": "1957",
+        "rating": "8.12320380022656",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 160,
+        "movie_title": "Inside Out",
+        "year": "2015",
+        "rating": "8.121699506571714",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 161,
+        "movie_title": "Warrior",
+        "year": "2011",
+        "rating": "8.119912177863048",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 162,
+        "movie_title": "The Elephant Man",
+        "year": "1980",
+        "rating": "8.117040963047083",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 163,
+        "movie_title": "Trainspotting",
+        "year": "1996",
+        "rating": "8.11644902282778",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 164,
+        "movie_title": "The Sixth Sense",
+        "year": "1999",
+        "rating": "8.11539536567881",
+        "image": "https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 165,
+        "movie_title": "The Thing",
+        "year": "1982",
+        "rating": "8.114165656594572",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 166,
+        "movie_title": "Jurassic Park",
+        "year": "1993",
+        "rating": "8.11035481032404",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 167,
+        "movie_title": "Gone with the Wind",
+        "year": "1939",
+        "rating": "8.107550315188458",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 168,
+        "movie_title": "Smultronstället",
+        "year": "1957",
+        "rating": "8.106058786888989",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 169,
+        "movie_title": "Blade Runner",
+        "year": "1982",
+        "rating": "8.105084091843672",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 170,
+        "movie_title": "Finding Nemo",
+        "year": "2003",
+        "rating": "8.104400917040108",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTAzNWZlNmUtZDEzYi00ZjA5LWIwYjEtZGM1NWE1MjE4YWRhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 171,
+        "movie_title": "The Truman Show",
+        "year": "1998",
+        "rating": "8.103659440917118",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 172,
+        "movie_title": "Room",
+        "year": "2015",
+        "rating": "8.10364897438717",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 173,
+        "movie_title": "The Bridge on the River Kwai",
+        "year": "1957",
+        "rating": "8.10208292717922",
+        "image": "https://m.media-amazon.com/images/M/MV5BMGVhNjhjODktODgxYS00MDdhLTlkZjktYTkyNzQxMTU0ZDYxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 174,
+        "movie_title": "Stalker",
+        "year": "1979",
+        "rating": "8.101992320176416",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDgwODNmMGItMDcwYi00OWZjLTgyZjAtMGYwMmI4N2Q0NmJmXkEyXkFqcGdeQXVyNzY1MTU0Njk@._V1_UY268_CR4,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 175,
+        "movie_title": "Kill Bill: Vol 1",
+        "year": "2003",
+        "rating": "8.100598842144073",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 176,
+        "movie_title": "Fargo",
+        "year": "1996",
+        "rating": "8.09897638601709",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 177,
+        "movie_title": "The Third Man",
+        "year": "1949",
+        "rating": "8.097218210790277",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 178,
+        "movie_title": "On the Waterfront",
+        "year": "1954",
+        "rating": "8.096860505220944",
+        "image": "https://m.media-amazon.com/images/M/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 179,
+        "movie_title": "Tôkyô monogatari",
+        "year": "1953",
+        "rating": "8.096413136250765",
+        "image": "https://m.media-amazon.com/images/M/MV5BYWQ4ZTRiODktNjAzZC00Nzg1LTk1YWQtNDFmNDI0NmZiNGIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY268_CR2,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 180,
+        "movie_title": "Gran Torino",
+        "year": "2008",
+        "rating": "8.095801668754385",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 181,
+        "movie_title": "Salinui chueok",
+        "year": "2003",
+        "rating": "8.094510611634687",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzhlNGJhYzUtZTNiMi00MjI0LWFjN2MtOTVlN2IxODVkZWVkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR1,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 182,
+        "movie_title": "The Deer Hunter",
+        "year": "1978",
+        "rating": "8.092987646011128",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 183,
+        "movie_title": "Relatos salvajes",
+        "year": "2014",
+        "rating": "8.09190851875399",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGQzY2Y0MTgtMDA4OC00NjM3LWI0ZGQtNTJlM2UxZDQxZjI0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY268_CR4,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 184,
+        "movie_title": "Andhadhun",
+        "year": "2018",
+        "rating": "8.089010139445694",
+        "image": "https://m.media-amazon.com/images/M/MV5BZWZhMjhhZmYtOTIzOC00MGYzLWI1OGYtM2ZkN2IxNTI4ZWI3XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_UY268_CR1,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 185,
+        "movie_title": "Klaus",
+        "year": "2019",
+        "rating": "8.087893930193887",
+        "image": "https://m.media-amazon.com/images/M/MV5BMWYwOThjM2ItZGYxNy00NTQwLWFlZWEtM2MzM2Q5MmY3NDU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 186,
+        "movie_title": "In the Name of the Father",
+        "year": "1993",
+        "rating": "8.084928414100796",
+        "image": "https://m.media-amazon.com/images/M/MV5BMWYwOThjM2ItZGYxNy00NTQwLWFlZWEtM2MzM2Q5MmY3NDU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 187,
+        "movie_title": "Mary and Max",
+        "year": "2009",
+        "rating": "8.08440437602373",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDgzYjQwMDMtNGUzYi00MTRmLWIyMGMtNjE1OGZkNzY2YWIzL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY268_CR3,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 188,
+        "movie_title": "The Big Lebowski",
+        "year": "1998",
+        "rating": "8.082046942122828",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 189,
+        "movie_title": "Gone Girl",
+        "year": "2014",
+        "rating": "8.081858984087818",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 190,
+        "movie_title": "Eskiya",
+        "year": "1996",
+        "rating": "8.081271750686275",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 191,
+        "movie_title": "Hacksaw Ridge",
+        "year": "2016",
+        "rating": "8.080904485491942",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 192,
+        "movie_title": "The Grand Budapest Hotel",
+        "year": "2014",
+        "rating": "8.08044264234336",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 193,
+        "movie_title": "Before Sunrise",
+        "year": "1995",
+        "rating": "8.07809660703892",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 194,
+        "movie_title": "To Be or Not to Be",
+        "year": "1942",
+        "rating": "8.077156457283571",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 195,
+        "movie_title": "Catch Me If You Can",
+        "year": "2002",
+        "rating": "8.077040376483525",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 196,
+        "movie_title": "Persona",
+        "year": "1966",
+        "rating": "8.07638483037818",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTM0YzExY2EtMjUyZi00ZmIwLWFkYTktNjY5NmVkYTdkMjI5XkEyXkFqcGdeQXVyNzQxNDExNTU@._V1_UY268_CR2,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 197,
+        "movie_title": "Ford v Ferrari",
+        "year": "2019",
+        "rating": "8.07500386881362",
+        "image": "https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 198,
+        "movie_title": "The General",
+        "year": "1926",
+        "rating": "8.072310043164034",
+        "image": "https://m.media-amazon.com/images/M/MV5BYmRiMDFlYjYtOTMwYy00OGY2LWE0Y2QtYzQxOGNhZmUwNTIxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 199,
+        "movie_title": "How to Train Your Dragon",
+        "year": "2010",
+        "rating": "8.0717354758953",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 200,
+        "movie_title": "Prisoners",
+        "year": "2013",
+        "rating": "8.071101119333452",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 201,
+        "movie_title": "Sherlock Jr",
+        "year": "1924",
+        "rating": "8.070632284855705",
+        "image": "https://m.media-amazon.com/images/M/MV5BZWFhOGU5NDctY2Q3YS00Y2VlLWI1NzEtZmIwY2ZiZjY4OTA2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 202,
+        "movie_title": "Mr Smith Goes to Washington",
+        "year": "1939",
+        "rating": "8.068301259501686",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 203,
+        "movie_title": "12 Years a Slave",
+        "year": "2013",
+        "rating": "8.06506027343422",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 204,
+        "movie_title": "Barry Lyndon",
+        "year": "1975",
+        "rating": "8.061392984258974",
+        "image": "https://m.media-amazon.com/images/M/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 205,
+        "movie_title": "Mad Max: Fury Road",
+        "year": "2015",
+        "rating": "8.06099242748584",
+        "image": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 206,
+        "movie_title": "Stand by Me",
+        "year": "1986",
+        "rating": "8.05742003447914",
+        "image": "https://m.media-amazon.com/images/M/MV5BODJmY2Y2OGQtMDg2My00N2Q3LWJmZTUtYTc2ODBjZDVlNDlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 207,
+        "movie_title": "Network",
+        "year": "1976",
+        "rating": "8.057180897181478",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGNjYjM2MzItZGQzZi00NmY3LTgxOGUtMTQ2MWQxNWQ2MmMwXkEyXkFqcGdeQXVyNzM0MTUwNTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 208,
+        "movie_title": "Cool Hand Luke",
+        "year": "1967",
+        "rating": "8.056928989020797",
+        "image": "https://m.media-amazon.com/images/M/MV5BOWFlNzZhYmYtYTI5YS00MDQyLWIyNTUtNTRjMWUwNTEzNjA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 209,
+        "movie_title": "Million Dollar Baby",
+        "year": "2004",
+        "rating": "8.056473054485545",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 210,
+        "movie_title": "Into the Wild",
+        "year": "2007",
+        "rating": "8.05322712917325",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTAwNDEyODU1MjheQTJeQWpwZ15BbWU2MDc3NDQwNw@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 211,
+        "movie_title": "Hachi: A Dog's Tale",
+        "year": "2009",
+        "rating": "8.053091150062537",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzE4NDg5OWMtMzg3NC00ZDRjLTllMDMtZTRjNWZmNjBmMGZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR3,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 212,
+        "movie_title": "Ben-Hur",
+        "year": "1959",
+        "rating": "8.052428740394685",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 213,
+        "movie_title": "Le salaire de la peur",
+        "year": "1953",
+        "rating": "8.051876157906959",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDdkNzMwZmUtY2Q5MS00ZmM2LWJhYjItYTBjMWY0MGM4MDRjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR1,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 214,
+        "movie_title": "Dead Poets Society",
+        "year": "1989",
+        "rating": "8.051702197553968",
+        "image": "https://m.media-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 215,
+        "movie_title": "Platoon",
+        "year": "1986",
+        "rating": "8.051421683743687",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzRjZjdlMjQtODVkYS00N2YzLWJlYWYtMGVlN2E5MWEwMWQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 216,
+        "movie_title": "Life of Brian",
+        "year": "1979",
+        "rating": "8.05080142948581",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzAwNjU1OTktYjY3Mi00NDY5LWFlZWUtZjhjNGE0OTkwZDkwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 217,
+        "movie_title": "Harry Potter and the Deathly Hallows: Part 2",
+        "year": "2011",
+        "rating": "8.050583332873137",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjIyZGU4YzUtNDkzYi00ZDRhLTljYzctYTMxMDQ4M2E0Y2YxXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 218,
+        "movie_title": "Logan",
+        "year": "2017",
+        "rating": "8.049857722050692",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 219,
+        "movie_title": "Rush",
+        "year": "2013",
+        "rating": "8.049752386077964",
+        "image": "https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 220,
+        "movie_title": "Du rififi chez les hommes",
+        "year": "1955",
+        "rating": "8.048509442645633",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjZmZGRiMDgtNDkwNi00OTZhLWFhZmMtYTdkYjgyNThhOWY3XkEyXkFqcGdeQXVyMTA1NTM1NDI2._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 221,
+        "movie_title": "La passion de Jeanne d'Arc",
+        "year": "1928",
+        "rating": "8.044639726774",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjBjNDJiYTUtOWY0OS00OGVmLTg2YzctMTE0NzVhODM1ZWJmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 222,
+        "movie_title": "Ah-ga-ssi",
+        "year": "2016",
+        "rating": "8.043874395664622",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDJhYTk2MTctZmVmOS00OTViLTgxNjQtMzQxOTRiMDdmNGRjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR2,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 223,
+        "movie_title": "Les quatre cents coups",
+        "year": "1959",
+        "rating": "8.043210707022547",
+        "image": "https://m.media-amazon.com/images/M/MV5BYmU3ZTk0NzgtZWIxNy00YzRkLWFkOTctMDNmMDA1MjYyYjI5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR3,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 224,
+        "movie_title": "Andrei Rublev",
+        "year": "1966",
+        "rating": "8.04290922494451",
+        "image": "https://m.media-amazon.com/images/M/MV5BYmU3ZTk0NzgtZWIxNy00YzRkLWFkOTctMDNmMDA1MjYyYjI5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR3,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 225,
+        "movie_title": "Hotel Rwanda",
+        "year": "2004",
+        "rating": "8.042567995755256",
+        "image": "https://m.media-amazon.com/images/M/MV5BYmU3ZTk0NzgtZWIxNy00YzRkLWFkOTctMDNmMDA1MjYyYjI5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR3,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 226,
+        "movie_title": "Spotlight",
+        "year": "2015",
+        "rating": "8.040924423840776",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 227,
+        "movie_title": "Amores perros",
+        "year": "2000",
+        "rating": "8.040839393688541",
+        "image": "https://m.media-amazon.com/images/M/MV5BMWJhOTg5MWQtYTJjMi00YmFkLTg4ODgtYmU2YWVhODQ4ZDM3XkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 228,
+        "movie_title": "Rang De Basanti",
+        "year": "2006",
+        "rating": "8.037488361662943",
+        "image": "https://m.media-amazon.com/images/M/MV5BYThmZDA0YmQtMWJhNy00MDQwLTk0Y2YtMDhmZTE5ZjhlNjliXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 229,
+        "movie_title": "Kaze no tani no Naushika",
+        "year": "1984",
+        "rating": "8.036442035140212",
+        "image": "https://m.media-amazon.com/images/M/MV5BZWFkN2ZhODAtYTNkZS00Y2NjLWIzNDYtNzJjNDNlMzAyNTIyXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_UY268_CR3,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 230,
+        "movie_title": "Rocky",
+        "year": "1976",
+        "rating": "8.034776403626902",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTcwMTQ3NTMyNA@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 231,
+        "movie_title": "La haine",
+        "year": "1995",
+        "rating": "8.034255733066882",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDNiOTA5YjktY2Q0Ni00ODgzLWE5MWItNGExOWRlYjY2MjBlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY268_CR3,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 232,
+        "movie_title": "Monsters, Inc",
+        "year": "2001",
+        "rating": "8.031925510740187",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 233,
+        "movie_title": "Rebecca",
+        "year": "1940",
+        "rating": "8.031493561308201",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTcxYWExOTMtMWFmYy00ZjgzLWI0YjktNWEzYzJkZTg0NDdmL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY268_CR2,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 234,
+        "movie_title": "Gangs of Wasseypur",
+        "year": "2012",
+        "rating": "8.030681715762384",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTc5NjY4MjUwNF5BMl5BanBnXkFtZTgwODM3NzM5MzE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 235,
+        "movie_title": "Portrait de la jeune fille en feu",
+        "year": "2019",
+        "rating": "8.02479027041984",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjgwNjkwOWYtYmM3My00NzI1LTk5OGItYWY0OTMyZTY4OTg2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UY268_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 236,
+        "movie_title": "The Circus",
+        "year": "1928",
+        "rating": "8.020319739053944",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjgwNjkwOWYtYmM3My00NzI1LTk5OGItYWY0OTMyZTY4OTg2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UY268_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 237,
+        "movie_title": "Before Sunset",
+        "year": "2004",
+        "rating": "8.018488868992387",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 238,
+        "movie_title": "It Happened One Night",
+        "year": "1934",
+        "rating": "8.018387433178342",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 239,
+        "movie_title": "Fa yeung nin wah",
+        "year": "2000",
+        "rating": "8.017718760654793",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjZjODRlMjQtMjJlYy00ZDBjLTkyYTQtZGQxZTk5NzJhYmNmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR3,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 240,
+        "movie_title": "Paris, Texas",
+        "year": "1984",
+        "rating": "8.015730006424393",
+        "image": "https://m.media-amazon.com/images/M/MV5BM2RjMmU3ZWItYzBlMy00ZmJkLWE5YzgtNTVkODdhOWM3NGZhXkEyXkFqcGdeQXVyNDA5Mjg5MjA@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 241,
+        "movie_title": "Drishyam",
+        "year": "2015",
+        "rating": "8.014354034185336",
+        "image": "https://m.media-amazon.com/images/M/MV5BYmJhZmJlYTItZmZlNy00MGY0LTg0ZGMtNWFkYWU5NTA1YTNhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 242,
+        "movie_title": "The Help",
+        "year": "2011",
+        "rating": "8.012276240182098",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 243,
+        "movie_title": "Contratiempo",
+        "year": "2016",
+        "rating": "8.012137080263471",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDk0YzAwYjktMWFiZi00Y2FmLWJmMmMtMzUyZDZmMmU5MjkzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR3,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 244,
+        "movie_title": "The Princess Bride",
+        "year": "1987",
+        "rating": "8.011895840154487",
+        "image": "https://m.media-amazon.com/images/M/MV5BMGM4M2Q5N2MtNThkZS00NTc1LTk1NTItNWEyZjJjNDRmNDk5XkEyXkFqcGdeQXVyMjA0MDQ0Mjc@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 245,
+        "movie_title": "The Terminator",
+        "year": "1984",
+        "rating": "8.009026898899448",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 246,
+        "movie_title": "La battaglia di Algeri",
+        "year": "1966",
+        "rating": "8.008021681395727",
+        "image": "https://m.media-amazon.com/images/M/MV5BZWEzMGY4OTQtYTdmMy00M2QwLTliYTQtYWUzYzc3OTA5YzIwXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY268_CR4,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 247,
+        "movie_title": "Swades: We, the People",
+        "year": "2004",
+        "rating": "8.007673975976427",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzExOTcwNjYtZTljMC00YTQ2LWI2YjYtNWFlYzQ0YTJhNzJmXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY268_CR2,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 248,
+        "movie_title": "Kumonosu-jô",
+        "year": "1957",
+        "rating": "8.007475505638265",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzExOTcwNjYtZTljMC00YTQ2LWI2YjYtNWFlYzQ0YTJhNzJmXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY268_CR2,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 249,
+        "movie_title": "Chak De! India",
+        "year": "2007",
+        "rating": "8.00701634049173",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTUzODMyNzk4NV5BMl5BanBnXkFtZTgwNTk1NTYyNTM@._V1_UY268_CR9,0,182,268_AL_.jpg"
+    },
+    {
+        "index": 250,
+        "movie_title": "Lagaan: Once Upon a Time in India",
+        "year": "2001",
+        "rating": "8.00698965813887",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDYxNWUzZmYtOGQxMC00MTdkLTkxOTctYzkyOGIwNWQxZjhmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    }
+]
