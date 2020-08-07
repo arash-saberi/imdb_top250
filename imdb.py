@@ -58,14 +58,19 @@ while index <  len(movies):
     genre = doc.xpath("//*[@id='title-overview-widget']/div[1]/div[2]/div/div[2]/div[2]/div/a[contains(@href,'/search/title?genres=')]//text()")
 
 
-    for s in img:
-        myImage = s
+    myImage = ', '.join(img)
 
-    for text in desc:
-        myDesc = text.strip()    
+    myDesc = ', '.join(desc).strip()
     
     newGenre = ', '.join(genre)
        
+    if  myImage  == '':
+        img = doc.xpath('//*[@id="title-overview-widget"]/div[2]/div[1]/a/img/@src')
+        myImage = ', '.join(img)
+
+    if  myDesc  == '':
+        desc = doc.xpath('//*[@id="title-overview-widget"]/div[2]/div[2]/div[1]/div[1]//text()')
+        myDesc = ', '.join(desc).strip()
    
     data = {"index": index+1,
             "title": movie_title,
@@ -78,6 +83,9 @@ while index <  len(movies):
             }
     imdb.append(data)
     
+    img = []
+    desc = []
+
     index = index+1
     
     if index >= 10 and index % 10 == 0:
